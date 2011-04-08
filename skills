@@ -56,3 +56,25 @@ Databases
 * RDBMS
 * NoSQL
 * coSQL
+
+Source Control
+--------------
+* Patches
+* DCVS (git, mercurial)
+* Centralized (Subversion, ..)
+
+Open Source 
+-----------
+* Philosophy
+* General Knowledge of the ecosystem
+* Being able to look at the source code
+
+Java
+====
+Build
+-----
+* Maven
+* Hudson / Jenkins / CI
+
+Python
+======
