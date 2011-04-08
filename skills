@@ -1,0 +1,58 @@
+Fundamentals
+============
+Programming
+-----------
+* Algorithmics
+* OO
+** Core (Inheritance, Encapsulation, Polymorphism, Composition)
+** Goals (Orthogonality, Low coupling, High cohesion)
+** SOLID principles
+*** Class design (SOLID)
+*** Package cohesion principles
+*** Coupling between packages
+** Inversion of Control
+** Law of Demeter
+** Don't repeat yourself
+** Command-Query Separation
+** Design by contract
+** Gang of four design patterns
+* FP
+** Immutability
+* Domain-Driven Design
+* UNIX Programming philosophy 
+** The Art of UNIX Programming
+** Robustness principle
+* 'Agile' techniques
+** Refactoring
+*** Code
+*** Databases
+*** TDD
+*** Agile Modelling
+*** Continuous Integration
+
+Architecture
+------------
+* CQRS / Event Sourcing
+* SOA
+* Data-Context-Interaction
+
+Languages
+---------
+* Java
+* Scala
+* Python
+* Ruby
+
+Operating Systems and Networking
+--------------------------------
+* Linux 
+** As a user
+** As a programmer
+** As a sysadmin
+* Debian/Ubuntu Packaging
+
+Databases
+---------
+* RDBMS
+* NoSQL
+* coSQL
